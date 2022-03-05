@@ -1,5 +1,6 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "files": {
     "main.css": "/static/css/main.e1d1d5f7.css",
     "main.js": "/static/js/main.a70c2d22.js",
@@ -28,4 +29,20 @@
   "static/css/main.3ca43e24.chunk.css.map": "/static/css/main.3ca43e24.chunk.css.map",
   "static/media/App.css": "/static/media/bg.9073d3ce.jpg"
 >>>>>>> 393c4a8 (deployment)
+=======
+  "main.css": "/prediction/static/css/main.38d03134.chunk.css",
+  "main.js": "/prediction/static/js/main.537f668e.chunk.js",
+  "main.js.map": "/prediction/static/js/main.537f668e.chunk.js.map",
+  "runtime~main.js": "/prediction/static/js/runtime~main.cf9e8d49.js",
+  "runtime~main.js.map": "/prediction/static/js/runtime~main.cf9e8d49.js.map",
+  "static/css/2.39f226d5.chunk.css": "/prediction/static/css/2.39f226d5.chunk.css",
+  "static/js/2.8dcfd289.chunk.js": "/prediction/static/js/2.8dcfd289.chunk.js",
+  "static/js/2.8dcfd289.chunk.js.map": "/prediction/static/js/2.8dcfd289.chunk.js.map",
+  "index.html": "/prediction/index.html",
+  "precache-manifest.d065034c2ad3ec9b7e9f90849e85c3b6.js": "/prediction/precache-manifest.d065034c2ad3ec9b7e9f90849e85c3b6.js",
+  "service-worker.js": "/prediction/service-worker.js",
+  "static/css/2.39f226d5.chunk.css.map": "/prediction/static/css/2.39f226d5.chunk.css.map",
+  "static/css/main.38d03134.chunk.css.map": "/prediction/static/css/main.38d03134.chunk.css.map",
+  "static/media/App.css": "/prediction/static/media/bg.9073d3ce.jpg"
+>>>>>>> c2b2568 (frontend-deployment)
 }
