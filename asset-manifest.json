@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "files": {
     "main.css": "/static/css/main.e1d1d5f7.css",
     "main.js": "/static/js/main.a70c2d22.js",
@@ -11,4 +12,20 @@
     "static/css/main.e1d1d5f7.css",
     "static/js/main.a70c2d22.js"
   ]
+=======
+  "main.css": "/static/css/main.3ca43e24.chunk.css",
+  "main.js": "/static/js/main.0fde7a2f.chunk.js",
+  "main.js.map": "/static/js/main.0fde7a2f.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/css/2.39f226d5.chunk.css": "/static/css/2.39f226d5.chunk.css",
+  "static/js/2.8dcfd289.chunk.js": "/static/js/2.8dcfd289.chunk.js",
+  "static/js/2.8dcfd289.chunk.js.map": "/static/js/2.8dcfd289.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.b4e419e023972a26ba23d25914ea3736.js": "/precache-manifest.b4e419e023972a26ba23d25914ea3736.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/2.39f226d5.chunk.css.map": "/static/css/2.39f226d5.chunk.css.map",
+  "static/css/main.3ca43e24.chunk.css.map": "/static/css/main.3ca43e24.chunk.css.map",
+  "static/media/App.css": "/static/media/bg.9073d3ce.jpg"
+>>>>>>> 393c4a8 (deployment)
 }
